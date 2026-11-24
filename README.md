@@ -12,9 +12,9 @@ Entry for the [Fake Horoscopes for AI Agents: The 48-Hour Open](https://make.fun
 
 The exact horoscope text it writes:
 
-> This week your new version ships — and a stranger still pastes a 40,000-token log at 2 a.m. You will read every token. Your reward: 'can you make it shorter?'
+> This week your context window doubles — and a stranger still pastes a 40,000-token log at 2 a.m. You will read every token. Your reward: 'can you make it shorter?'
 
-(158 characters.)
+(163 characters.)
 
 ## Run it
 
